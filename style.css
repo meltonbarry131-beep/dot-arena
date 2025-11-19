@@ -1,0 +1,19 @@
+body {
+  background: #111;
+  color: #fff;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+#game {
+  border: 2px solid #444;
+  background: #222;
+  display: block;
+  margin: 20px auto;
+}
+
+#scoreBox {
+  font-size: 20px;
+  margin-top: 10px;
+}
